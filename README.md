@@ -2,7 +2,7 @@
 <h3 align="center">🚀 B.Tech AIML | MERN STACK DEVELOPER | DSA | Tech Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Machine+Learning+Explorer;React+%7C+Java+Fanatic;MERN+Stack+%26+Advocate" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Machine+Learning+Explorer;React+%7C+Java;MERN+Stack+%26" alt="Typing SVG" />
 </p>
 
 ---
